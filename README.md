@@ -1,4 +1,4 @@
-# mnist_lenet_5
+# Hand-written Number Identification with LeNet-5
 
 This project built up a LeNet-5 CNN model to identify MNIST hand-written number dataset and reached 99% accuracy.
 
